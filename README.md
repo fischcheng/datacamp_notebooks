@@ -3,7 +3,11 @@ This repo documents all the notes I've taken going through datacamp courses. I'l
 
 ### Completed courses:
 * Parallel computing with Dask
-* Supervised learning with Scikit-learn
+* Supervised Learning with Scikit-learn
+* Unsupervised Learning in Python
+* Machine Learning with the Experts: School Budgets
+* Introduction to PySpark
+* Deep Larning in Python
 
 ### Scikit-learn supervised learning (Classification, Regression) basic workflow
 * Preprocessing data: fill/drop/impute missing data
