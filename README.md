@@ -8,6 +8,7 @@ This repo documents all the notes I've taken going through datacamp courses. I'l
 * Machine Learning with the Experts: School Budgets
 * Introduction to PySpark
 * Deep Larning in Python
+* Introduction to Time Series Analysis in Python
 
 ### Scikit-learn supervised learning (Classification, Regression) basic workflow
 * Preprocessing data: fill/drop/impute missing data
